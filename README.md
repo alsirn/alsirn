@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:6a0dad,100:000000&height=150&section=header&text=Say%20Hi%20To%20My%20Profile&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%E2%9C%A6%20alsirn%20%E2%9C%A6&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:6a0dad,100:000000&height=150&section=header&text=%E2%9C%A6%20Say%20Hi%20To%20Me%20Alsirnn%20%E2%9C%A6&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=" />
 
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=100&color=B266FF&center=true&vCenter=true&width=500&lines=Yoo%2C+Sup+My+Name+alsirn;From+Politeknik+Negeri+Indramayu;Full+Stack+Dev;See+Yaa!!" alt="Typing SVG" />
@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/fl_5U5534RAAAAAd/chainsaw-man-csm.gif" width="45%" style="border-radius: 12px; border: 2px solid #8A2BE2;">
+  <img src="https://media1.tenor.com/m/fl_5U5534RAAAAAd/chainsaw-man-csm.gif" width="45%" style="border-radius: 12px; border: 2px solid #8A2BE2 &animation=fadeIn;">
   &nbsp;&nbsp;
   <img src="https://media1.tenor.com/m/3Sykma8la9gAAAAd/reze-tongue-out-reze-chainsaw-man-moving-her-head.gif" width="40%" style="border-radius: 12px; border: 2px solid #8A2BE2;">
 </p>
