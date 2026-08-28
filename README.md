@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner wave animasi - gradient ungu ke hitam -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:6a0dad,100:000000&height=200&section=header&text=Welcome%20To%20My%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%E2%9C%A6%20alsirn%20%E2%9C%A6&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:6a0dad,100:000000&height=200&section=header&text=Welcome%20To%20My%20Profile&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%E2%9C%A6%20alsirn%20%E2%9C%A6&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- Teks ngetik sendiri, warna ungu muda -->
 <a href="#">
