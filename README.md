@@ -1,15 +1,3 @@
-<!--
-=====================================================
-  GITHUB PROFILE README - PURPLE x BLACK x WHITE
-  Tema: Chainsaw Man (Reze)
-  Cara pakai:
-  1. Ganti semua "alsirn" dengan username GitHub kamu
-  2. Upload file ini ke repo bernama SAMA PERSIS dengan
-     username kamu (contoh: github.com/alsirn/alsirn)
-  3. Simpan sebagai README.md di root repo tersebut
-=====================================================
--->
-
 <div align="center">
 
 <!-- Banner wave animasi - gradient ungu ke hitam -->
@@ -35,7 +23,7 @@
 
 ---
 
-<h3 align="center">🧑‍💻 Tentang Saya</h3>
+<h3 align="center">Tentang Saya</h3>
 
 - 🔭 Sedang mengerjakan **rental-motor**
 - 🌱 Sedang belajar **Laravel & React**
@@ -44,7 +32,7 @@
 
 ---
 
-<h3 align="center">🛠️ Tech Stack</h3>
+<h3 align="center">Tech Stack</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,js,react,html,css,mysql,git,github,vscode&theme=dark" />
@@ -53,7 +41,7 @@
 ---
 
 
-<h3 align="center">🌐 Terhubung dengan Saya</h3>
+<h3 align="center">Terhubung dengan Saya</h3>
 
 <p align="center">
   <a href="https://www.tiktok.com/@rizzskyee" target="_blank">
