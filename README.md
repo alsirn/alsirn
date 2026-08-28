@@ -13,7 +13,7 @@
 <div align="center">
 
 <!-- Banner wave animasi -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There!%20👋&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20profile&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hy%20Welcom!%20👋&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20profile&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Teks ngetik sendiri (typing animation) -->
 <a href="#">
@@ -48,8 +48,8 @@
 ### 📊 Statistik GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alsirn&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alsirn&layout=compact&theme=radical&hide_border=true"/>
+  <!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=alsirn&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alsirn&layout=compact&theme=radical&hide_border=true"/> -->
 </p>
 
 <p align="center">
