@@ -53,6 +53,11 @@
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=B266FF" />
   </a>
 </p>
+<p align="center">
+  <a href="https://www.facebook.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=Facebook&logoColor=B266FF" />
+  </a>
+</p>
 
 <!-- Footer wave animasi -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:6a0dad,100:1a0033&height=120&section=footer" width="100%"/>
