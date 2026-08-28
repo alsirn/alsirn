@@ -5,7 +5,7 @@
 
 <!-- Teks ngetik sendiri, warna ungu muda -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=1000&color=B266FF&center=true&vCenter=true&width=500&lines=Yoo%2C+Sup+My+Name+alsirn;From+Politeknik+Negeri+Indramayu;Full+Stack+Dev;See+Yaa!!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=100&color=B266FF&center=true&vCenter=true&width=500&lines=Yoo%2C+Sup+My+Name+alsirn;From+Politeknik+Negeri+Indramayu;Full+Stack+Dev;See+Yaa!!" alt="Typing SVG" />
 </a>
 
 </div>
