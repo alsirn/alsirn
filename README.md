@@ -60,4 +60,4 @@
 </p>
 
 <!-- Footer wave animasi -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:6a0dad,100:1a0033&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:6a0dad,100:1a0033&height=100&section=footer" width="100%"/>
