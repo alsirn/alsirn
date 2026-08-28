@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- Banner wave animasi - gradient ungu ke hitam -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:6a0dad,100:000000&height=200&section=header&text=Welcome%20To%20My%20Profile&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%E2%9C%A6%20alsirn%20%E2%9C%A6&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:6a0dad,100:000000&height=150&section=header&text=Say%20Hi%20To%20My%20Profile&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%E2%9C%A6%20alsirn%20%E2%9C%A6&descAlignY=55&descSize=20" width="100%"/>
 
-<!-- Teks ngetik sendiri, warna ungu muda -->
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=100&color=B266FF&center=true&vCenter=true&width=500&lines=Yoo%2C+Sup+My+Name+alsirn;From+Politeknik+Negeri+Indramayu;Full+Stack+Dev;See+Yaa!!" alt="Typing SVG" />
 </a>
@@ -12,27 +10,26 @@
 
 <br>
 
-<!-- Dua GIF Reze berdampingan -->
 <p align="center">
   <img src="https://media1.tenor.com/m/fl_5U5534RAAAAAd/chainsaw-man-csm.gif" width="45%" style="border-radius: 12px; border: 2px solid #8A2BE2;">
   &nbsp;&nbsp;
   <img src="https://media1.tenor.com/m/3Sykma8la9gAAAAd/reze-tongue-out-reze-chainsaw-man-moving-her-head.gif" width="40%" style="border-radius: 12px; border: 2px solid #8A2BE2;">
 </p>
 
-<p align="center"><i>"Power belongs to those who are willing to pay the price." — Chainsaw Man</i></p>
+<p align="center"><i>"Love and loyalty collide in a whirlwind of passion and betrayal, as Reze navigates the treacherous waters of the heart." — Reze</i></p>
 
 ---
 
-<h3 align="center">Tentang Saya</h3>
+<h3 align="center">About me</h3>
 
-- 🔭 Sedang mengerjakan **rental-motor**
-- 🌱 Sedang belajar **Laravel & React**
-- 💬 Tanya aku soal **PHP / Web Development**
-- ⚡ Fun fact: suka nonton anime sambil ngoding
+- Name : Ahmad zahran husein (call me alsi or gori)
+- From : Indonesia, jawa barat, indramayu
+- Tanggal lahir : hbd gwe 23/07/2007
+- hobi : cosplay
 
 ---
 
-<h3 align="center">Tech Stack</h3>
+<h3 align="center">Skils ngoding</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,js,react,html,css,mysql,git,github,vscode&theme=dark" />
@@ -40,8 +37,19 @@
 
 ---
 
+<p align="center"><i>"Kalo mo nanya sesuatu hubungin aja ke ig yaw" — admin kikir </i></p>
 
-<h3 align="center">Terhubung dengan Saya</h3>
+<p align="center">
+  <img src="https://media1.tenor.com/m/PzhMZT5K_14AAAAd/ryo-yamada-ryo.gif" width="45%" style="border-radius: 12px; border: 2px solid #8A2BE2;">
+  &nbsp;&nbsp;
+  <img src="https://media1.tenor.com/m/-ZiFVZizxhcAAAAC/bocchi-the-rock-ryo-yamada.gif" width="34%" style="border-radius: 12px; border: 2px solid #8A2BE2;">
+</p>
+
+
+---
+
+
+<h3 align="center">My contact gweh</h3>
 
 <p align="center">
   <a href="https://www.tiktok.com/@rizzskyee" target="_blank">
