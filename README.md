@@ -17,7 +17,7 @@
 
 <!-- Teks ngetik sendiri, warna ungu muda -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=B266FF&center=true&vCenter=true&width=500&lines=Halo%2C+aku+alsirn!;Full+Stack+Developer;Chainsaw+Man+Enthusiast;Sedang+belajar+hal+baru!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=B266FF&center=true&vCenter=true&width=500&lines=Yoo%2C+Sup+My+Name+alsirn;From+Politeknik+Negeri+Indramayu;Full+Stack+Dev;See+Yaa!!" alt="Typing SVG" />
 </a>
 
 </div>
@@ -52,26 +52,6 @@
 
 ---
 
-<h3 align="center">📊 Statistik GitHub</h3>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alsirn&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=b266ff&icon_color=b266ff&text_color=ffffff"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alsirn&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=b266ff&text_color=ffffff"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsirn&hide_border=true&background=0D0D0D&stroke=8A2BE2&ring=B266FF&fire=B266FF&currStreakLabel=B266FF" />
-</p>
-
----
-
-<h3 align="center">🔥 Grafik Kontribusi (Snake Animasi)</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/alsirn/alsirn/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
 
 <h3 align="center">🌐 Terhubung dengan Saya</h3>
 
