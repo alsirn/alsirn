@@ -56,8 +56,13 @@
 <h3 align="center">🌐 Terhubung dengan Saya</h3>
 
 <p align="center">
-  <a href="https://www.tiktok.com/@alsi.asel" target="_blank">
+  <a href="https://www.tiktok.com/@rizzskyee" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=B266FF" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://www.instagram.com/alsiirn" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=B266FF" />
   </a>
 </p>
 
