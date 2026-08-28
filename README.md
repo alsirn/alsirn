@@ -13,11 +13,11 @@
 <div align="center">
 
 <!-- Banner wave animasi - gradient ungu ke hitam -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:6a0dad,100:000000&height=220&section=header&text=Welcome%20To%20My%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%E2%9C%A6%20alsirn%20%E2%9C%A6&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:6a0dad,100:000000&height=200&section=header&text=Welcome%20To%20My%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%E2%9C%A6%20alsirn%20%E2%9C%A6&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- Teks ngetik sendiri, warna ungu muda -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=B266FF&center=true&vCenter=true&width=500&lines=Yoo%2C+Sup+My+Name+alsirn;From+Politeknik+Negeri+Indramayu;Full+Stack+Dev;See+Yaa!!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=1000&color=B266FF&center=true&vCenter=true&width=500&lines=Yoo%2C+Sup+My+Name+alsirn;From+Politeknik+Negeri+Indramayu;Full+Stack+Dev;See+Yaa!!" alt="Typing SVG" />
 </a>
 
 </div>
