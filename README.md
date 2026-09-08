@@ -32,7 +32,7 @@
 <h3 align="center">Skils ngoding</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,react,html,css,mysql,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,react,html,css,mysql,git,github,vscode,cpp,discord,flutter,ae,arduino&theme=dark" />
 </p>
 
 ---
